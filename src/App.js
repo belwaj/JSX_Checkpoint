@@ -11,7 +11,7 @@ function App() {
   <br />
   <img src="/imageInPublic.jpg" alt="jsx-a11y/alt-text"/>
   </div>
-  <video width="320" height="240" controls>
+  <video width="360" height="240" controls>
   <source src="myVideo.mp4" type="video/mp4" />
   </video>
  </>
